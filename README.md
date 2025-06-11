@@ -3,13 +3,13 @@ About xproj-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/xproj-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/benbovy/xproj
+Home: https://github.com/xarray-contrib/xproj
 
 Package license: Apache-2.0
 
 Summary: Xarray extension for managing geospatial coordinate reference systems.
 
-Development: https://github.com/benbovy/xproj
+Development: https://github.com/xarray-contrib/xproj
 
 Documentation: https://xproj.readthedocs.io/
 
@@ -148,5 +148,6 @@ Feedstock Maintainers
 =====================
 
 * [@benbovy](https://github.com/benbovy/)
+* [@dcherian](https://github.com/dcherian/)
 * [@scottyhq](https://github.com/scottyhq/)
 
