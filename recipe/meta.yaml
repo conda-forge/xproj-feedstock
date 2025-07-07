@@ -1,5 +1,5 @@
 {% set name = "xproj" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 63113443c8232e79bf04b5088e19389118405e6d4026a7c3c0df79a7a5146730
+  sha256: d520c7a0df402f6a5922108ed614c8ea0ce6b04bec12c91aceb75fe3c1d3c5c3
 
 build:
   noarch: python
